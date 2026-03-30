@@ -2,7 +2,7 @@
 
 My name is Bee Phophaijit, and I am a Senior Project Coordinator at Addgene with a background spanning healthcare operations, administration, and business analytics. I am currently pursuing an MBA with a focus on Healthcare Management and AI, bringing an operational and strategic lens to the intersection of technology and organizational management.
 
-One high-priority area in healthcare and life sciences organizations is risk and compliance operations — the ongoing work of identifying regulatory obligations, monitoring adherence, managing audits, and responding to policy changes. This domain is document-heavy, time-sensitive, and prone to human error, making it a strong candidate for AI-assisted workflows.
+One high-priority area in healthcare and life sciences organizations is risk and compliance operations, the ongoing work of identifying regulatory obligations, monitoring adherence, managing audits, and responding to policy changes. This domain is document-heavy, time-sensitive, and prone to human error, making it a strong candidate for AI-assisted workflows.
 
 **Ways generative AI could support risk and compliance operations:**
 
