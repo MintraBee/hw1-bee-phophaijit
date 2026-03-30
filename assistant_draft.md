@@ -13,7 +13,15 @@ One high-priority area in healthcare and life sciences organizations is risk and
 ---
 
 Prompt used:
-Create content for a markdown file called assistant_draft.md with a title, introduction, problem area (risk and compliance operations), and three ways generative AI can be useful. Keep it concise and professional.
+Create content for a markdown file called assistant_draft.md.
+
+It should include:
+- a short title
+- one short paragraph introducing me: Bee Phophaijit, a Senior Project Coordinator at Addgene with a background in healthcare operations, administration, and business analytics, currently pursuing an MBA focused on Healthcare Management and AI
+- one short paragraph describing a problem area I care about: risk and compliance operations
+- a short bullet list of 3 ways generative AI might be useful in that area
+
+Keep it concise, professional, and high-level.
 
 What the assistant did well:
 The assistant created a clear and well-structured response and connected the topic to a realistic risk and compliance context.
